@@ -1,10 +1,12 @@
 ## CMS-API ##
 
-### 1.检索名服务接口 ###
+## 1.检索名接口服务 ##
+
+### [^检索名服务接口] ###
 
 **1.1 接口**：
 	
-	com.viewstar.soa.nodejs.searchName.service.SearchNameService
+		com.viewstar.soa.nodejs.searchName.service.SearchNameService
 
 **1.2 输入参数**：
 
@@ -61,3 +63,4 @@
 			  		name:"vod"
 					}
 				
+[^检索名服务接口]:检索名服务接口
