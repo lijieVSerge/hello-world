@@ -44,10 +44,10 @@
 		类型：Map<String,Object>
 
 		参数描述:返回状态及结果
-				|描述|key|value|
-				|:------:|:-------:|:-------:|
-				|状态|status|0或1|
-				|结果|result|success或failed|
+|描述|key|value|
+|:------:|:-------:|:-------:|
+|状态|status|0或1|
+|结果|result|success或failed|
 
 	例如：
 		类型：List<String>
