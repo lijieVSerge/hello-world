@@ -7,7 +7,7 @@ API目录
 |1|<A HREF="#1">检索名接口服务</A>|<A HREF="#1.1">获取检索名1</A>，<A HREF="#1.2">获取检索名2</A>，<A HREF="#1.2">获取检索名2</A>，<A HREF="#1.2">获取检索名2</A>，<br><A HREF="#1.2">获        取检索名2</A>，<A HREF="#1.2">获取检索名2</A>，<A HREF="#1.2">获取检索名2</A>，<A HREF="#1.2">获取检索名2<A>|
 |2|<A HREF="#2">其他</A>||
 
-###<a name="1" style="color: red;">1.检索名接口服务</a>
+###<a name="1">1.检索名接口服务</a>
 
 		package：com.viewstar.soa.nodejs.searchName.service.SearchNameService
 
@@ -120,5 +120,5 @@ API目录
 
 			描述：返回vod实体信息
 				vodInfo:{id:"123",name:"vod"....}
-###<a name="2" style="color: red;">2.其他</a><A HREF="#0">(顶)</A>
+###<a name="2">2.其他</a><A HREF="#0">(顶)</A>
 
